@@ -1,0 +1,3 @@
+fruit = "fruit"
+
+print(fruit[:])
