@@ -1,4 +1,4 @@
-from ex10m import *
+from m import *
 
 a = read_number()
 b = read_number()
