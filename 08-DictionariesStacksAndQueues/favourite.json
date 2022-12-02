@@ -1,0 +1,7 @@
+{
+  "name": "Scary Movie",
+  "year": 1999,
+  "rating": "8.6",
+  "in_theaters": false,
+  "director": "John Doe"
+}
