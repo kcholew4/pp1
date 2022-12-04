@@ -1,0 +1,13 @@
+{
+  "name": "Janusz",
+  "surname": "Kowalski",
+  "iq": 100,
+  "male": true,
+  "height": 180,
+  "hobbies": [
+    "gaming",
+    "netflix",
+    "watching tv"
+  ],
+  "friends": 312
+}
