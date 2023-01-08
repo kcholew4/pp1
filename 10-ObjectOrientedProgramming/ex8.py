@@ -1,6 +1,8 @@
 class TV:
-  is_on = False
-  channel_no = 1
+
+  def __init__(self):
+    self.is_on = False
+    self.channel_no = 1
 
   def turn_on(self):
     self.is_on = True
